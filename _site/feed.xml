@@ -6,9 +6,30 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Jan 2021 17:51:15 +0300</pubDate>
-    <lastBuildDate>Sun, 10 Jan 2021 17:51:15 +0300</lastBuildDate>
+    <pubDate>Sun, 10 Jan 2021 18:17:01 +0300</pubDate>
+    <lastBuildDate>Sun, 10 Jan 2021 18:17:01 +0300</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Security</title>
+        <description>&lt;p&gt;Vulnerabilities:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Injections (XSS, Overflow, SQL)&lt;/li&gt;
+  &lt;li&gt;Architectural (Man-in-the-Middle, SSH via password, SCRF)&lt;/li&gt;
+  &lt;li&gt;Logical (Race Conditions, Goto fail, IDOR)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://owasp.org/www-project-top-ten/&quot;&gt;OWASP top 10&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 10 Jan 2021 00:00:00 +0300</pubDate>
+        <link>http://yourdomain.com/security/2021/01/10/security.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/security/2021/01/10/security.html</guid>
+        
+        
+        <category>security</category>
+        
+      </item>
     
       <item>
         <title>Spring</title>
