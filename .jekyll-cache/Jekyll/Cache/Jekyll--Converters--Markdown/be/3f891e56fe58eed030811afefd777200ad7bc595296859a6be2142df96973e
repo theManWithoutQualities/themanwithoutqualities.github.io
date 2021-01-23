@@ -1,0 +1,7 @@
+I"É<p>Vulnerabilities:</p>
+<ul>
+  <li>Injections (XSS, Overflow, SQL)</li>
+  <li>Architectural (Man-in-the-Middle, SSH via password, SCRF)</li>
+  <li>Logical (Race Conditions, Goto fail, IDOR)</li>
+</ul>
+:ET
